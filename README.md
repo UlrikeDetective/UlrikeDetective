@@ -2,6 +2,7 @@
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/142745875?v=4)
 
+
 - 👀 I'm interested in data analytics, data science, learning to code, and using AI.
 - 🌱 Actively learning: Python, R, HTML, CSS, JavaScript, MySQL (various levels from beginner to mid-level)
 - 💼 I'm open to collaborating on different projects. Want to see what I'm working on? Dive into my repositories!
@@ -30,3 +31,6 @@ Here are some of the projects I've worked on:
 - [LinkedIn Profile](https://www.linkedin.com/in/ulrike-herold/)
 - [Kaggle Profile](https://www.kaggle.com/ulrikeherold)
 - [GitHub Profile](https://github.com/UlrikeDetective)
+
+## Badges
+[![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective)](https://github.com/UlrikeDetective/stargazers) 
