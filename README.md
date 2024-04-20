@@ -28,9 +28,15 @@ Here are some of the projects I've worked on:
 - Database Management: MySQL
 
 ### Let's Connect
-- [LinkedIn Profile](https://www.linkedin.com/in/ulrike-herold/)
-- [Kaggle Profile](https://www.kaggle.com/ulrikeherold)
-- [GitHub Profile](https://github.com/UlrikeDetective)
+- [LinkedIn](https://www.linkedin.com/in/ulrike-herold/)
+- [Kaggle](https://www.kaggle.com/ulrikeherold)
+- [GitHub](https://github.com/UlrikeDetective)
 
 ## Badges
 [![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective)](https://github.com/UlrikeDetective/stargazers) 
+![GitHub followers](https://img.shields.io/github/followers/UlrikeDetective)
+
+
+
+
+
