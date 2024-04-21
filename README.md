@@ -1,4 +1,4 @@
-# Hi, I'm Ulrike Herold 👋
+# Hi, I'm Ulrike 👋
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/142745875?v=4)
 
