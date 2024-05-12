@@ -1,6 +1,7 @@
 <html>
 <body>
-<title> Hi, I'm Ulrike 👋 </title>
+  <div align="center"> # Hi, I'm Ulrike 👋  </div>
+
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/142745875?v=4)
 
