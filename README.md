@@ -12,6 +12,7 @@
   
 - 📫 Let's connect! Feel free to reach out via email or leave a comment on a project. &nbsp;
 
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ulrike-herold/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:UlrikeDetective@outlook.com?subject=Hello%20Ulrike,%20From%20Github)
 
@@ -38,6 +39,13 @@ Here are some of the projects I've worked on:
 - Programming Languages: Python, R, HTML, CSS, JavaScript
 - Data Analysis: [mention any data analysis tools or techniques you're familiar with]
 - Database Management: MySQL
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UlrikeDetective&show_icons=true&count_private=true&theme=light" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlrikeDetective&layout=compact&theme=light" />&nbsp;&nbsp;
+</p>
 
 ### Let's Connect
 
