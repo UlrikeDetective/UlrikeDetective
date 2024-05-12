@@ -15,7 +15,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ulrike-herold/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:UlrikeDetective@outlook.com?subject=Hello%20Ulrike,%20From%20Github)
 
-
 ---
 
 ### About Me
@@ -63,3 +62,4 @@ Here are some of the projects I've worked on:
 [![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective)](https://github.com/UlrikeDetective/stargazers) 
 ![GitHub followers](https://img.shields.io/github/followers/UlrikeDetective)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
