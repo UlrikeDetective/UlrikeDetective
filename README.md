@@ -62,4 +62,4 @@ Here are some of the projects I've worked on:
 [![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective)](https://github.com/UlrikeDetective/stargazers) 
 ![GitHub followers](https://img.shields.io/github/followers/UlrikeDetective)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
