@@ -18,6 +18,11 @@ I am passionate about leveraging data-driven insights to solve real-world proble
 I bring a passion for data insights. I am continuously expanding my knowledge in R, Python, MySQL, web developement, 
 and I'm eager to contribute to impactful projects and collaborate with like-minded individuals.
 
+## My Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=css,git,github,html,ai,mysql,ps,py,r&theme=light)](https://skillicons.dev)
+
+
 ### Projects
 Here are some of the projects I've worked on:
 - [Tech Layoffs](https://github.com/UlrikeDetective/tech_layoffs)
