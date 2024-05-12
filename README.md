@@ -1,6 +1,7 @@
 
 # Hi, I'm Ulrike 👋 
 
+## ⚡ Unlocking insights through data and code.
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/142745875?v=4)
 
@@ -8,8 +9,12 @@
 - 👀 I'm interested in data analytics, data science, learning to code, and using AI.
 - 🌱 Actively learning: Python, R, HTML, CSS, JavaScript, MySQL (various levels from beginner to mid-level)
 - 💼 I'm open to collaborating on different projects. Want to see what I'm working on? Dive into my repositories!
-- 📫 Let's connect! Feel free to reach out via email or leave a comment on a project. [UlrikeDetective@outlook.com](mailto:UlrikeDetective@outlook.com).
-- ⚡ Unlocking insights through data and code.
+  
+- 📫 Let's connect! Feel free to reach out via email or leave a comment on a project. &nbsp;
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ulrike-herold/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:UlrikeDetective@outlook.com?subject=Hello%20Ulrike,%20From%20Github)
+
 
 ---
 
@@ -35,7 +40,7 @@ Here are some of the projects I've worked on:
 - Database Management: MySQL
 
 ### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ulrike-herold/)
+
 - [Kaggle](https://www.kaggle.com/ulrikeherold)
 - [GitHub](https://github.com/UlrikeDetective)
 
