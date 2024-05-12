@@ -1,0 +1,7 @@
+UlrikeDetective/Code
+UlrikeDetective/Forbes
+UlrikeDetective/Youtube
+UlrikeDetective/tech_layoffs
+UlrikeDetective/Sources
+UlrikeDetective/other_projects
+UlrikeDetective/html_portfolio
