@@ -34,6 +34,13 @@ Here are some of the projects I've worked on:
 - [Kaggle](https://www.kaggle.com/ulrikeherold)
 - [GitHub](https://github.com/UlrikeDetective)
 
+### Tasks
+- [x] having fun with DataScience projects
+- [ ] improving my coding skills
+- [ ] creating a personal website
+- [ ] publish work
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 ## Badges
 [![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective)](https://github.com/UlrikeDetective/stargazers) 
 ![GitHub followers](https://img.shields.io/github/followers/UlrikeDetective)
