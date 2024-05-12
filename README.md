@@ -1,4 +1,6 @@
-# Hi, I'm Ulrike 👋
+<html>
+<body>
+<title> Hi, I'm Ulrike 👋 </title>
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/142745875?v=4)
 
@@ -38,5 +40,5 @@ Here are some of the projects I've worked on:
 
 
 
-
-
+</body>
+</html>
