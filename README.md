@@ -1,6 +1,5 @@
-<html>
-<body>
-  <div align="center"> # Hi, I'm Ulrike 👋  </div>
+
+# Hi, I'm Ulrike 👋 
 
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/142745875?v=4)
@@ -39,7 +38,3 @@ Here are some of the projects I've worked on:
 [![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective)](https://github.com/UlrikeDetective/stargazers) 
 ![GitHub followers](https://img.shields.io/github/followers/UlrikeDetective)
 
-
-
-</body>
-</html>
