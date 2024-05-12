@@ -10,10 +10,9 @@
 - 🌱 Actively learning: Python, R, HTML, CSS, JavaScript, MySQL (various levels from beginner to mid-level)
 - 💼 I'm open to collaborating on different projects. Want to see what I'm working on? Dive into my repositories!
   
-- 📫 Let's connect! Feel free to reach out via email or leave a comment on a project.
+- 📫 Let's connect! Feel free to reach out via email or leave a comment on a project. &nbsp;
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ulrike-herold/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:UlrikeDetective@outlook.com?subject=Hello%20Ulrike,%20From%20Github)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:UlrikeDetective@outlook.com?subject=Hello%20Ulrike,%20From%20Github)
 
 ---
 
@@ -48,8 +47,11 @@ Here are some of the projects I've worked on:
 
 ### Let's Connect
 
-- [Kaggle](https://www.kaggle.com/ulrikeherold)
-- [GitHub](https://github.com/UlrikeDetective)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ulrikeherold)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UlrikeDetective)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulrike-herold/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ulrike_interessiert)
+
 
 ### Tasks
 - [x] having fun with DataScience projects
