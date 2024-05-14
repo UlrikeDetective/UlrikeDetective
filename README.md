@@ -44,7 +44,6 @@ Here are some of the projects I've worked on:
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlrikeDetective&layout=compact&theme=gotham" />&nbsp;&nbsp;
 </p>
 
-
 ### Let's Connect
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ulrikeherold)
