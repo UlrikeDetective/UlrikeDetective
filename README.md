@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 
 ## Some tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=css,git,github,html,ai,mysql,ps,py,r,anaconda,apple,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,git,github,html,ai,mysql,ps,py,r,anaconda,apple,gcp,nodejs,vscode&theme=light)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
