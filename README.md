@@ -57,6 +57,8 @@ Here are some of the projects I've worked on:
 - [ ] improving my coding skills
 - [ ] creating a personal website
 - [ ] publish work
+- [ ] partizipate in a coding challenge for example on Kaggle
+- [ ] collaborate on projects on Github
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Badges
