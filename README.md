@@ -55,11 +55,10 @@ Here are some of the projects I've worked on:
 ### Tasks
 - [x] having fun with DataScience projects
 - [ ] improving my coding skills
-- [ ] creating a personal website
+- [ ] creating a personal website :tada:
 - [ ] publish work
 - [ ] partizipate in a coding challenge for example on Kaggle
 - [ ] collaborate on projects on Github
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Badges
 [![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective)](https://github.com/UlrikeDetective/stargazers) 
