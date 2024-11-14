@@ -23,7 +23,7 @@ and I'm eager to contribute to impactful projects and collaborate with like-mind
 
 [![- - - More about me - - -](https://ulrikedetective.github.io/UlrikeHerold/pictures/sun_and_waves.png)](https://ulrikedetective.github.io/UlrikeHerold/#world)
 
-[![- - - traveling bliss - - -](https://ulrikedetective.github.io/UlrikeHerold/continent_map_pins.html)](https://ulrikedetective.github.io/UlrikeHerold/continent_map_pins.html)
+[![- - - traveling bliss - - -](https://ulrikedetective.github.io/UlrikeHerold/pictures/MyTravelMapEurope.png)](https://ulrikedetective.github.io/UlrikeHerold/continent_map_pins.html)
 
 
 
