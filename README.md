@@ -23,7 +23,7 @@ and I'm eager to contribute to impactful projects and collaborate with like-mind
 
 
 <a href="https://ulrikedetective.github.io/UlrikeHerold/#world" alt="- - - my website - - -" width="50%">
-    <img src="https://ulrikedetective.github.io/UlrikeHerold/pictures/sun_and_waves.png" alt="- - - traveling bliss - - -" width="50%">
+    <img src="https://ulrikedetective.github.io/UlrikeHerold/pictures/sun_and_waves.png" alt="- - - traveling bliss - - -" width="30%">
 </a>
 
 <a href="https://ulrikedetective.github.io/UlrikeHerold/continent_map_pins.html" alt="- - - travel bliss - - -" width="25%">
