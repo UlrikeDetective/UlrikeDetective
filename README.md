@@ -21,9 +21,12 @@ I am passionate about leveraging data-driven insights to solve real-world proble
 I bring a passion for data insights. I am continuously expanding my knowledge in R, Python, MySQL, web developement, 
 and I'm eager to contribute to impactful projects and collaborate with like-minded individuals.
 
-[![- - - More about me - - -](https://ulrikedetective.github.io/UlrikeHerold/pictures/sun_and_waves.png)](https://ulrikedetective.github.io/UlrikeHerold/#world)
 
-<a href="https://ulrikedetective.github.io/UlrikeHerold/continent_map_pins.html" alt="- - - my website - - -" width="25%">
+<a href="https://ulrikedetective.github.io/UlrikeHerold/#world" alt="- - - my website - - -" width="50%">
+    <img src="https://ulrikedetective.github.io/UlrikeHerold/pictures/sun_and_waves.png" alt="- - - traveling bliss - - -" width="50%">
+</a>
+
+<a href="https://ulrikedetective.github.io/UlrikeHerold/continent_map_pins.html" alt="- - - travel bliss - - -" width="25%">
     <img src="https://ulrikedetective.github.io/UlrikeHerold/pictures/MyTravelMapEurope.png" alt="- - - traveling bliss - - -" width="50%">
 </a>
 
