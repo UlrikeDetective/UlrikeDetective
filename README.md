@@ -21,6 +21,9 @@ I am passionate about leveraging data-driven insights to solve real-world proble
 I bring a passion for data insights. I am continuously expanding my knowledge in R, Python, MySQL, web developement, 
 and I'm eager to contribute to impactful projects and collaborate with like-minded individuals.
 
+- [![- - - More about me - - -](https://ulrikedetective.github.io/UlrikeHerold/pictures/sun_and_waves.png)](https://ulrikedetective.github.io/UlrikeHerold/#world)
+
+
 
 ### Projects
 Here are some of the projects I've worked on:
